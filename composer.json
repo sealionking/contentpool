@@ -42,6 +42,7 @@
   "require": {
     "burdamagazinorg/thunder": "^8.2.16",
     "cweagans/composer-patches": "~1.0",
+    "drupal/custom_elements": "^1.0@beta",
     "drupal/replication": "^1.0@beta",
     "drupal/relaxed": "^1.0@beta",
     "drupal/workspace": "^1.0@beta"

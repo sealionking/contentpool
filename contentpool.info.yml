@@ -13,5 +13,6 @@ themes:
   excluded_dependencies: []
 
 dependencies:
+  - custom_elements
   - relaxed
   - workspace
